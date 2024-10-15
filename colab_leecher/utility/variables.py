@@ -10,7 +10,7 @@ class BOT:
     SOURCE = []
     TASK = None
     class Setting:
-        stream_upload = "Media"
+        stream_upload = "Document"
         convert_video = "Yes"
         convert_quality = "High"
         caption = "Monospace"
